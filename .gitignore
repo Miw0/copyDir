@@ -1,0 +1,28 @@
+################
+## Windows
+################
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+################
+## Macintosh
+################
+
+.DS_Store
+
+################
+## Compass/SASS
+################
+
+.sass-cache/
+
+################
+## Various
+################
+
+.bak
+cssDir2-*.gem
