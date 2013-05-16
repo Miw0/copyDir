@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
     # Release Specific Information
-    s.version = "1.0.0"
-    s.date    = "2013-04-29"
+    s.version = "1.0.1"
+    s.date    = "2013-05-16"
 
     # Gem Details
     s.name        = "copyDir"
@@ -18,4 +18,5 @@ Gem::Specification.new do |s|
     # Gem Bookkeeping
     s.rubygems_version = %q{1.3.7}
     s.add_dependency("compass", [" >= 0.12.2"])
+    s.add_dependency("colorize", [" >= 0.5.8"])
 end
